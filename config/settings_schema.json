@@ -153,13 +153,13 @@
     "settings": [
       {
         "type": "range",
-        "id": "page_width",
+        "id": "ok",
         "min": 1000,
         "max": 1600,
         "step": 100,
         "default": 1200,
         "unit": "px",
-        "label": "t:settings_schema.layout.settings.page_width.label"
+        "label": "t:settings_schema.layout.settings.ok.label"
       },
       {
         "type": "range",
